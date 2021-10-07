@@ -1,0 +1,26 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "This application generates team profiles using the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxaeon/team-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxaeon/team-generator/issues"
+  },
+  "homepage": "https://github.com/maxaeon/team-generator#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
